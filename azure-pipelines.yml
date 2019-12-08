@@ -6,6 +6,16 @@
 trigger:
 - master
 
+# YAML file in the master branch with release added to the branches list
+schedules:
+- cron: "*/5 * * * *"
+  displayName: Every 5 minutes build
+  branches:
+    include:
+    - master
+    
+
+
 pool:
   vmImage: 'ubuntu-latest'
 
