@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61" started-at="2019-12-08T10:59:34 IST" finished-at="2019-12-08T10:59:34 IST">
+    <groups>
+    </groups>
+    <test name="Sanity" duration-ms="61" started-at="2019-12-08T10:59:34 IST" finished-at="2019-12-08T10:59:34 IST">
+      <class name="testCases.gitchecking">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:testCases.gitchecking@675d3402]" name="firstTest" duration-ms="6" started-at="2019-12-08T10:59:34 IST" finished-at="2019-12-08T10:59:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="secondTest()[pri:0, instance:testCases.gitchecking@675d3402]" name="secondTest" duration-ms="0" started-at="2019-12-08T10:59:34 IST" finished-at="2019-12-08T10:59:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+        <test-method status="PASS" signature="thirdTest()[pri:0, instance:testCases.gitchecking@675d3402]" name="thirdTest" duration-ms="0" started-at="2019-12-08T10:59:34 IST" finished-at="2019-12-08T10:59:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdTest -->
+      </class> <!-- testCases.gitchecking -->
+    </test> <!-- Sanity -->
+  </suite> <!-- Suite -->
+</testng-results>
